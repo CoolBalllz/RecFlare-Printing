@@ -1,6 +1,6 @@
 Thank you for downloading 
 by Coolballlz
-
+join the printing discord for help👍
 
 In-Game Printing System
 
