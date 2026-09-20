@@ -1,3 +1,4 @@
+Thank you for downloading 
 In-Game Printing System
 
 A custom in-game printing system for creating and printing custom images directly inside the game.
