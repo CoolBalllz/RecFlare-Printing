@@ -1,6 +1,7 @@
 Thank you for downloading 
 by Coolballlz
 
+
 In-Game Printing System
 
 A custom in-game printing system for creating and printing custom images directly inside the game.
@@ -73,3 +74,5 @@ Current Status
 * Print data generation: In Development
 * Web interface: In Development
 * Documentation: In Progress
+
+last updated 2:32AM at 9/20/26 
